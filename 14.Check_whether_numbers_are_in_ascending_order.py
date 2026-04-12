@@ -1,4 +1,5 @@
-# Check whether numbers are in ascending order
+# 
+
 def AscendingOrder(nums):
 
     for i in range(len(nums)-1):
