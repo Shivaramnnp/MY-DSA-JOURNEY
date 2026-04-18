@@ -9,7 +9,6 @@ def Palindrome(num):
         return " Palindrome "
     else:
         return "Not a  Palindrome"
-
 n = 121
 print(Palindrome(n))
 
