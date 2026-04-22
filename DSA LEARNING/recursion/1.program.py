@@ -7,6 +7,3 @@ def print_shiva(n):
     print("shiva")  
     print_shiva(n-1)  
 
-
-print_shiva(4)
-    
